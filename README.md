@@ -7,7 +7,7 @@
 - 📫 How to reach me, through my mail karisarandusy@gmail.com.
 
 # Todo
-If you are interested my project you can collaborate with me on my projects listed bellow. Thank you.
+If you are interested on my projects, you can collaborate with me. Thank you.
 
 https://github.com/randusy/cstructs
 
