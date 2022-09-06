@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @randusy.
-- 👀 I’m interested in programming in Java or Python.
+# Introduction
+
+- 👋 Hi, my names are Randu Katana Karisa.
+- 👀 I’m interested in programming with specific interents in Java for web and Application Development, Python for Machine Learning, C/C++ for data structures implementations.
 - 🌱 I’m currently learning machine learning related algorithms.
-- 💞️ I’m looking to collaborate on machine learning projects.
+- 💞️ I’m looking forward to collaborate on machine learning related projects.
 - 📫 How to reach me, through my mail karisarandusy@gmail.com.
 
 <!---
