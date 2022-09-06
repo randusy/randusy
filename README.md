@@ -6,6 +6,12 @@
 - 💞️ I’m looking forward to collaborate on machine learning related projects.
 - 📫 How to reach me, through my mail karisarandusy@gmail.com.
 
+# Todo
+If you are interested my project you can collaborate with me on my projects listed bellow. Thank you.
+
+https://github.com/randusy/cstructs
+
+
 <!---
 randusy/randusy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
