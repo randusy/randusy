@@ -11,6 +11,7 @@ If you are interested my project you can collaborate with me on my projects list
 
 https://github.com/randusy/cstructs
 
+https://github.com/randusy/RandusyEncryption
 
 <!---
 randusy/randusy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
